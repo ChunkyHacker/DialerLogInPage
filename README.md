@@ -37,7 +37,7 @@
                     <tbody>
                         <tr bgcolor="white">
                             <td align="left" valign="bottom" bgcolor="#284F01" width="170">
-                                <img src="https://hosted101.apntelecom.com/agent/images/vicidial_admin_web_logo.png" alt="Agent Screen" border="0" height="45" width="170">
+                                <img src="vicidial_admin_web_logo.png" alt="Agent Screen" border="0" height="45" width="170">
                             </td>
                             <td align="center" valign="middle" bgcolor="#284F01">
                                 <font class="sh_text_white" color="white">Phone Log In</font>
